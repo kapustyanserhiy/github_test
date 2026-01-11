@@ -152,3 +152,4 @@ GitHub: [@kapustyanserhiy](https://github.com/kapustyanserhiy)
 
 ## Repository
 https://github.com/kapustyanserhiy/math_solvers
+###
